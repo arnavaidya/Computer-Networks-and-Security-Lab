@@ -12,7 +12,7 @@ This project demonstrates a basic implementation of the RSA Digital Signature Cr
 
 2. Start the server using:
 
-    python server.py
+        python server.py
 
 3. The server will generate an RSA key pair and listen for client connections.
 
@@ -22,7 +22,7 @@ This project demonstrates a basic implementation of the RSA Digital Signature Cr
 
 2. Start the client using:
 
-    python client.py
+        python client.py
 
 3. The client will generate its RSA key pair and establish a connection with the server.
 

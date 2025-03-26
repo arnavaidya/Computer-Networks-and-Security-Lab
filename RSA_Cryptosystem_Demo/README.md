@@ -14,7 +14,7 @@ The server will start and wait for a connection from the client.
 
 1. Start the client:
 
-    python RSAclient.py
+        python RSAclient.py
 
 2. Enter a message when prompted.
 

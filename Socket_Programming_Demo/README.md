@@ -2,7 +2,7 @@
 
 This folder contains implementations of simple TCP and UDP client-server programs in C. Below are sample outputs demonstrating their functionality.
 
-1. TCP Server and Client Communication
+# 1. TCP Server and Client Communication
 
 Run the TCP Server:
 
@@ -28,7 +28,7 @@ Output:
     SEND (q or Q to quit) : Hello, Server!
     Received data = q
 
-2. UDP Server and Client Communication
+# 2. UDP Server and Client Communication
 
 Run the UDP Server:
 

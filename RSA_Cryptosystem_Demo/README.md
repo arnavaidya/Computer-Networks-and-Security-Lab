@@ -1,6 +1,6 @@
 # RSA Cryptography Demo - Sample Output
 
-# Steps for implementation: 
+# Steps for execution: 
 
 # 1. Run the Server First
 

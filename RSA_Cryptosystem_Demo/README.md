@@ -22,6 +22,8 @@ The server will start and wait for a connection from the client.
 
     2. The server will decrypt the message and display it.
 
+# Expected Ouptut
+
 Server Terminal:
 
         PS D:\CNS Assignments\RSA_Cryptosystem_Demo> python RSAserver.py

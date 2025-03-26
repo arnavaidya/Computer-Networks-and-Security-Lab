@@ -2,7 +2,7 @@
 
 # Steps for execution:
 
-# Run the Server
+# Run the Server First 
 
 1. Open a terminal and navigate to the project folder.
 
@@ -12,7 +12,7 @@
 
 3. The server will generate an RSA key pair and listen for client connections.
 
-# Run the Client
+# Run the Client in a New Terminal
 
 1. Open another terminal and navigate to the same project folder.
 

@@ -14,13 +14,13 @@ The server will start and wait for a connection from the client.
 
 1. Start the client:
 
-                python RSAclient.py
+    python RSAclient.py
 
 2. Enter a message when prompted.
 
-1. The client will encrypt the message and send it to the server.
+    1. The client will encrypt the message and send it to the server.
 
-2. The server will decrypt the message and display it.
+    2. The server will decrypt the message and display it.
 
 Server Terminal:
 

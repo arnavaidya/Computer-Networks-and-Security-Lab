@@ -6,21 +6,21 @@
 
 Start the server:
 
-    python server.py
+    python RSAserver.py
 
 The server will start and wait for a connection from the client.
 
 # 2. Run the Client in a New Terminal
 
-        1. Start the client:
+    1. Start the client:
 
-                python client.py
+                python RSAclient.py
 
-        2. Enter a message when prompted.
+    2. Enter a message when prompted.
 
-                1. The client will encrypt the message and send it to the server.
+        1. The client will encrypt the message and send it to the server.
 
-                2. The server will decrypt the message and display it.
+        2. The server will decrypt the message and display it.
 
 PS D:\CNS Assignments\RSA_Cryptosystem_Demo> python RSAserver.py
 Private key of B is: 11

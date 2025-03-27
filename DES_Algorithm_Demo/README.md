@@ -55,7 +55,7 @@ Client Terminal:
 3. Ensure that the server is started before running the client.
 4. If you face an issue with Crypto.Cipher, install dependencies using:
 
-    pip install pycryptodome
+        pip install pycryptodome
 
 
 

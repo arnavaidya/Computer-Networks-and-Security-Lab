@@ -3,25 +3,26 @@
 # Steps for Execution:
 
 # 1️. Run the Server First
-Start the server by executing the following command in the terminal:
+
+1. Start the server by executing the following command in the terminal:
 
     python DESserver.py
 
-The server will start and wait for a connection from the client.
+2. The server will start and wait for a connection from the client.
 
 # 2️. Run the Client in a New Terminal
 
-Start the client by executing:
+1. Start the client by executing:
 
     python DESclient.py
 
-Enter a message when prompted.
+2. Enter a message when prompted.
 
-The client will encrypt the message and send it to the server.
+3. The client will encrypt the message and send it to the server.
 
-The server will decrypt the message and display it.
+4. The server will decrypt the message and display it.
 
-Expected Output:
+# Expected Output:
 
 Server Terminal:
 
@@ -52,8 +53,7 @@ Client Terminal:
 1. The program uses DES (Data Encryption Standard) for secure communication between the client and server.
 2. It incorporates Diffie-Hellman key exchange to establish a shared secret key.
 3. Ensure that the server is started before running the client.
-
-If you face an issue with Crypto.Cipher, install dependencies using:
+4. If you face an issue with Crypto.Cipher, install dependencies using:
 
     pip install pycryptodome
 

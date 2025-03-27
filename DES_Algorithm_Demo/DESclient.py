@@ -52,3 +52,4 @@ decrypted_text = cipher.decrypt(cipher_text_received).decode().strip()
 print(f"Decrypted Text from Server: {decrypted_text}")
 
 client.close()
+#End
